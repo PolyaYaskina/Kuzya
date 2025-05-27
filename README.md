@@ -1,2 +1,0 @@
-# Kuzya
-My little assistant 
