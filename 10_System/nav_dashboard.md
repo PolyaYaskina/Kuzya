@@ -15,9 +15,9 @@
 - [[readme.md]] — Команды взаимодействия
 
 ## Активные направления
-- [[YaskinGroup.md]] / [[YaskinGroup_full.md]]
+- [[11_Projects/YG/YaskinGroup|YaskinGroup]]
 - [[BSRanch.md]] — проект Евгения
-- [[BPR_Baikal.md]] — твоё направление
+- [[BPR_Baikal]] — твоё направление
 
 ## Архив
 - [[lite.md]] — Свеча# Навигация — Главный экран
