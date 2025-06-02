@@ -10,6 +10,8 @@
         📄 persona_Kuzya.md
         📄 style_Kuzya.md
 📁 01_Persona/
+    📁 LOG/
+        📄 29.05.2025.md
     📄 Polina_Signature.md
     📄 Polina_conflict.md
     📄 Polina_core.md
@@ -36,12 +38,21 @@
     📄 Polina_MVP.md
     📁 YG/
         📄 BPR_Baikal.md
+        📁 Calculator/
+            📄 Функционал.md
         📁 Countries/
             📄 Китай.md
             📄 Монголия.md
         📄 YG_Automatization.md
         📄 YaskinGroup.md
         📄 yaskin.group.md
+        📁 Байкал/
+            📁 Квесты/
+                📄 "Йети и Страна Духов".md
+                📄 В ГОСТИ К ШАМАНУ.md
+                📄 СЪЁМКИ ФИЛЬМА.md
+                📄 структура квеста.md
+        📄 Техкарта транспорта Yaskin Group.md
 📁 12_Temp/
     📄 placeholder.md
 📄 YG_Full.md
